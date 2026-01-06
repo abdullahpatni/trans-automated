@@ -1,0 +1,73 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "A93C578E77B89A4EEF0F8527E597B054",
+      "domain": "ivcargo.in",
+      "path": "/ivcargo",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.103055909.1767709844",
+      "domain": ".ivcargo.in",
+      "path": "/",
+      "expires": 1767796244,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat_gtag_UA_201408734_1",
+      "value": "1",
+      "domain": ".ivcargo.in",
+      "path": "/",
+      "expires": 1767709904,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_XF55XR17FK",
+      "value": "GS2.1.s1767709844$o1$g0$t1767709844$j60$l0$h0",
+      "domain": ".ivcargo.in",
+      "path": "/",
+      "expires": 1802269844.446,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1282575648.1767709844",
+      "domain": ".ivcargo.in",
+      "path": "/",
+      "expires": 1802269844.446,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://ivcargo.in",
+      "localStorage": [
+        {
+          "name": "branchId",
+          "value": "27897"
+        },
+        {
+          "name": "executiveIdCheck",
+          "value": "33121"
+        },
+        {
+          "name": "accountGroupId",
+          "value": "354"
+        }
+      ]
+    }
+  ]
+}
