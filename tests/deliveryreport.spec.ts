@@ -16,7 +16,7 @@ test('Paid Booking excel download', async ({ page }) => {
 
   await page.getByText('☰').click();
   await page.getByRole('button', { name: 'Delivery Reports +' }).click();
-  await page.getByRole('link', { name: 'Delivery Statement Cash-' }).click();
+  await page.getByRole('link', { name: 'Delivery Cash-Cheque Statement' }).click();
 
   // Select date
   const dateRange = loadDateRange();
@@ -67,7 +67,7 @@ test('Paid Booking excel download', async ({ page }) => {
         await page.getByRole('button', { name: 'Find' }).click();
 
         const noDataSelector = '#bottom-border-boxshadow .panel-body';
-        const dataSelector = '#bottom-border-boxshadow .panel-body.scrollit';
+        const dataSelector = '#bottom-border-boxshadow .panel-body.scrolldiv';
         const noDataLocator = page.locator(noDataSelector).filter({ hasText: 'No Records Found For Delivered LR !!' });
         const dataLocator = page.locator(dataSelector);
 

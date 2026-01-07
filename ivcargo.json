@@ -2,7 +2,7 @@
   "cookies": [
     {
       "name": "JSESSIONID",
-      "value": "A93C578E77B89A4EEF0F8527E597B054",
+      "value": "3E9469BE5AFB6C3CF0B2A8B5969C0E7E",
       "domain": "ivcargo.in",
       "path": "/ivcargo",
       "expires": -1,
@@ -12,10 +12,10 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.103055909.1767709844",
+      "value": "GA1.2.1574814014.1767767952",
       "domain": ".ivcargo.in",
       "path": "/",
-      "expires": 1767796244,
+      "expires": 1767854352,
       "httpOnly": false,
       "secure": false,
       "sameSite": "None"
@@ -25,27 +25,27 @@
       "value": "1",
       "domain": ".ivcargo.in",
       "path": "/",
-      "expires": 1767709904,
+      "expires": 1767768012,
       "httpOnly": false,
       "secure": false,
       "sameSite": "None"
     },
     {
       "name": "_ga_XF55XR17FK",
-      "value": "GS2.1.s1767709844$o1$g0$t1767709844$j60$l0$h0",
+      "value": "GS2.1.s1767767952$o1$g0$t1767767952$j60$l0$h0",
       "domain": ".ivcargo.in",
       "path": "/",
-      "expires": 1802269844.446,
+      "expires": 1802327952.683,
       "httpOnly": false,
       "secure": false,
       "sameSite": "None"
     },
     {
       "name": "_ga",
-      "value": "GA1.1.1282575648.1767709844",
+      "value": "GA1.1.154055815.1767767952",
       "domain": ".ivcargo.in",
       "path": "/",
-      "expires": 1802269844.446,
+      "expires": 1802327952.683,
       "httpOnly": false,
       "secure": false,
       "sameSite": "None"
